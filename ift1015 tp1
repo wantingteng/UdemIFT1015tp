@@ -1,8 +1,17 @@
-#tp1
+#Le TP1 a pour but de vous faire pratiquer les concepts suivants : les boucles, les tableaux, les structures, les abstractions procédurales,la décomposition fonctionnelle et les tests unitaires.
+#Vous devez coder et tester un jeu graphique qui se joue en solitaire sur une grille carrée : le jeu de taquin. Le jeu de taquin est expliqué ici et vous pouvez le jouer sur le web.
+#Le développement de votre programme doit se faire en Python à l'aide de l'environnement codeBoot.
+#vous devez vous limiter aux aspects du langage que nous avons vus dans le cours jusqu'au chapitre sur les structures et tableaux inclusivement. Utilisez la version 3.1.11 ou plus récente de codeBoot.
+
+
+
+
 #Wanting Teng     
 
 # Ce programme écrit un JEU DE TAQUIN et utilise des tests unitaires pour 
 # vérifier les fonctions
+
+
 
 import tuiles
 
